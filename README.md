@@ -1,12 +1,12 @@
 # 🃏 Blackjack (Python Edition)
 
-Welcome to **Blackjack**, the digital drama of risk, reward, and regret — now in your terminal.  
+Welcome to **Blackjack**, the digital drama of risk, reward, and regret now in your terminal.  
 Built in Python by **Unnathi E Naik**, this game tests your luck against a very determined (but very fair) computer dealer.
 
 ## 🎮 Gameplay Overview
 
 - You're dealt two cards from a virtual deck.
-- The computer also gets two — but sneaky, it only shows one.
+- The computer also gets two but sneaky, it only shows one.
 - Try to get as close to **21** as possible without going over.
 - You can choose to draw another card ("Hit") or stop ("Stand").
 - Natural Blackjack (Ace + 10 on first go)? That’s an instant win (unless the computer has it too...).
@@ -14,7 +14,7 @@ Built in Python by **Unnathi E Naik**, this game tests your luck against a very 
 ## 🤖 Dealer Logic
 
 - The computer keeps drawing until its total is 17 or more.
-- Aces (11) get smartly converted to 1 if needed — no busting on a technicality.
+- Aces (11) get smartly converted to 1 if needed no busting on a technicality.
 - Once both you and the dealer are done, scores are compared and the winner is declared.
 
 ## 🛠 How to Run
